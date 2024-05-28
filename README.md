@@ -1,5 +1,6 @@
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&align=center)
-
+<div align="center">
+     ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div>
 <h1 align="center">Hi 👋, I'm Umesh Mali</h1>
 <h3 align="center">A passionate fullstack developer from Pune, India</h3>
 
