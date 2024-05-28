@@ -1,4 +1,6 @@
-![logo](Banner.png)
+### ✍️ Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <h1 align="center">Hi 👋, I'm Umesh Mali</h1>
 <h3 align="center">A passionate fullstack developer from Pune, India</h3>
 
@@ -27,13 +29,4 @@
 ![](https://github-readme-stats.vercel.app/api?username=umeshhhmali&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=umeshhhmali&theme=dark&hide_border=false)<br/>
 
-
-### ✍️ Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
-
----
-[![](https://visitcount.itsvg.in/api?id=umeshhhmali&icon=0&color=0)](https://visitcount.itsvg.in)
 
