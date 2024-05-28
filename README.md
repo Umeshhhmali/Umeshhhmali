@@ -1,5 +1,4 @@
-### ✍️ Dev Quote
-![logo](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&align=center)
 
 <h1 align="center">Hi 👋, I'm Umesh Mali</h1>
 <h3 align="center">A passionate fullstack developer from Pune, India</h3>
