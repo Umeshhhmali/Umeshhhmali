@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Umesh Mali</h1>
 <h3 align="center">A passionate fullstack developer from Pune, India</h3>
 
-<img style="border-radius:25px;" align="right" src="./code.gif" alt="coder" width="400">
+<img border-radius="25px" align="right" src="./code.gif" alt="coder" width="400">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=umeshhhmali&label=Profile%20views&color=0e75b6&style=flat" alt="umeshhhmali" /> </p>
 
