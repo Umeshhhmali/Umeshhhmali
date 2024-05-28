@@ -1,3 +1,4 @@
+![logo](Banner.png)
 <h1 align="center">Hi 👋, I'm Umesh Mali</h1>
 <h3 align="center">A passionate fullstack developer from Pune, India</h3>
 
