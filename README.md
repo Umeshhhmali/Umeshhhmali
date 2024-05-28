@@ -40,45 +40,8 @@
                               <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
                                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
 
-<div class="BorderGrid-cell">
-<h2 class="h4 mb-3">Languages</h2>
-<div class="mb-2">
-  <span data-view-component="true" class="Progress">
-    <span style="background-color:#563d7c !important;;width: 49.5%;" itemprop="keywords" aria-label="CSS 49.5" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
-    <span style="background-color:#e34c26 !important;;width: 31.0%;" itemprop="keywords" aria-label="HTML 31.0" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
-    <span style="background-color:#f1e05a !important;;width: 19.5%;" itemprop="keywords" aria-label="JavaScript 19.5" data-view-component="true" class="Progress-item color-bg-success-emphasis"></span>
-</span></div>
-<ul class="list-style-none">
-    <li class="d-inline">
-        <span class="d-inline-flex flex-items-center flex-nowrap text-small mr-3">
-          <svg style="color:#563d7c;" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-dot-fill mr-2">
-    <path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path>
-</svg>
-          <span class="color-fg-default text-bold mr-1">CSS</span>
-          <span>49.5%</span>
-        </span>
-    </li>
-    <li class="d-inline">
-        <span class="d-inline-flex flex-items-center flex-nowrap text-small mr-3">
-          <svg style="color:#e34c26;" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-dot-fill mr-2">
-    <path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path>
-</svg>
-          <span class="color-fg-default text-bold mr-1">HTML</span>
-          <span>31.0%</span>
-        </span>
-    </li>
-    <li class="d-inline">
-        <span class="d-inline-flex flex-items-center flex-nowrap text-small mr-3">
-          <svg style="color:#f1e05a;" aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-dot-fill mr-2">
-    <path d="M8 4a4 4 0 1 1 0 8 4 4 0 0 1 0-8Z"></path>
-</svg>
-          <span class="color-fg-default text-bold mr-1">JavaScript</span>
-          <span>19.5%</span>
-        </span>
-    </li>
-</ul>
-
-              </div>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=umeshhhmali&show_icons=true&locale=en&layout=compact" alt="umeshhhmali" /></p>
+ 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=umeshhhmali&show_icons=true&locale=en" alt="umeshhhmali" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=umeshhhmali&" alt="umeshhhmali" /></p>
