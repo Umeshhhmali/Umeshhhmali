@@ -5,7 +5,7 @@
 
 <img align=right src="Anime.gif" style="width:400px"/>
 
-<h2>💫 About Me:</h2>
+# 💫 About Me:
 🔭 I’m currently working on Full stack<br>
 🤝 I’m looking for help with the MERN stack<br>
 🌱 I’m currently learning MERN stack<br>
