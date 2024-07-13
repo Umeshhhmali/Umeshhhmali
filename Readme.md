@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi I'm 🖐️ Umesh Mali</h1>
 
-<img align=right src="Anime.gif"/>
+<img align=right src="Anime.gif" style="width:100px"/>
 
 # 💫 About Me:
 🔭 I’m currently working on Full stack<br>🤝 I’m looking for help with the MERN stack<br>🌱 I’m currently learning MERN stack<br>💬 Ask me about Full stack
