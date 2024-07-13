@@ -1,6 +1,6 @@
-### ✍️ Random Dev Quote
+<div style="align-item:center;">
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
+</div>
 <h1 align="center">Hi I'm 🖐️ Umesh Mali</h1>
 
 # 💫 About Me:
