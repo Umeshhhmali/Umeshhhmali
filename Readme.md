@@ -1,5 +1,5 @@
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="display: block; margin: 0 auto;">
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" style="display: block; align:center;">
 
 
 <h1 align="center">Hi I'm 🖐️ Umesh Mali</h1>
