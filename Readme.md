@@ -1,7 +1,5 @@
 <h1 align="center">Hi I'm 🖐️ Umesh Mali</h1>
 
-<img align=right src="Anime.gif" style="padding-top:50px;width:300px"/>
-
 # 💫 About Me:
 🔭 I’m currently working on Full stack<br>
 🤝 I’m looking for help with the MERN stack<br>
