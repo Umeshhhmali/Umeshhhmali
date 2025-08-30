@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2021<br>📚 Learning the art of Mobile App Development<br>🎯 Goals: To survive one build without errors<br>🎲 Fun fact: My code runs perfectly… on the second try 🚀</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 Learning the art of Mobile App Development<br>🎯 Goals: To survive one build without errors<br>🎲 Fun fact: My code runs perfectly… on the second try 🚀</p>
 
 ###
 
