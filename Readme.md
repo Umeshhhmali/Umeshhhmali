@@ -1,4 +1,3 @@
-![Profile Views](https://komarev.com/ghpvc/?username=Umeshhhmali&color=brightgreen)
 
 <h1 align="center">Hey 👋, I'm Umesh Mali</h1>
 
