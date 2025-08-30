@@ -1,11 +1,20 @@
 <h1 align="center">Hi I'm 🖐️ Umesh Mali</h1>
 
-# 💫 About Me:
-🔭 I’m currently working on Full stack<br>
-🤝 I’m looking for help with the MERN stack<br>
-🌱 I’m currently learning MERN stack<br>
-💬 Ask me about Full stack
+<p align="left">My name is Umesh and I'm a Software Developer, from India</p>
 
+###
+
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2021<br>📚 Learning the art of Mobile App Development<br>🎯 Goals: To survive one build without errors<br>🎲 Fun fact: My code runs perfectly… on the second try 🚀</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/umesh.mali.3990418) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/umeshhhmali09) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/umesh-mali-08461427a) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Umeshmali412882) 
