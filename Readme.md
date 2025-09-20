@@ -44,8 +44,11 @@
 ## 📊 GitHub Stats  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Umeshhhmali&show_icons=true&theme=dark" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umeshhhmali&theme=dark" alt="streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Umeshhhmali&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Umeshhhmali&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Umeshhhmali&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Umeshhhmali&theme=dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Umeshhhmali&theme=dark" />
 </p>
 
 ---
