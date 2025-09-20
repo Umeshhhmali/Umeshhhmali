@@ -1,4 +1,3 @@
-
 <h1 align="center">Hey 👋, I'm Umesh Mali</h1>
 
 <p align="center">
@@ -48,3 +47,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Umeshhhmali&show_icons=true&theme=dark" alt="stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Umeshhhmali&theme=dark" alt="streak" />
 </p>
+
+---
