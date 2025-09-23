@@ -21,8 +21,8 @@
   <a href="https://linkedin.com/in/umesh-mali-08461427a"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
   <a href="https://instagram.com/umeshhhmali09"><img src="https://skillicons.dev/icons?i=instagram" height="40"/></a>
   <a href="https://x.com/Umeshmali412882"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
-  <a href="https://x.com/Umeshmali412882"><img src="HackerRank.svg" height="40" style="border-radius:50%;"/></a>
-  <a href="https://x.com/Umeshmali412882"><img src="LeetCode-square.svg" height="40" style="border-radius:20px;"/></a>
+  <!-- <a href="https://x.com/Umeshmali412882"><img src="HackerRank.svg" height="40" style="border-radius:50%;"/></a>
+  <a href="https://x.com/Umeshmali412882"><img src="LeetCode-square.svg" height="40" style="border-radius:20px;"/></a> -->
 </p>
 
 ---
