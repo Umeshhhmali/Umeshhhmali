@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="2500" height="2500" viewBox="0 0 512 512">
   <!-- Rounded rectangle background -->
-  <rect width="512" height="512" fill="#000000" rx="64" ry="64"/>
+  <rect width="512" height="512" fill="#000000" rx="74" ry="74"/>
   
   <path fill="#fff" d="M128 160h48v64h64v-64h48v192h-48v-80h-64v80h-48z"/>
   <rect x="304" y="160" width="80" height="192" fill="#2EC866"/>
